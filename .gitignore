@@ -1,0 +1,5 @@
+# Node modules -- use npm install to obtain
+node_modules/
+
+# Audio testing files, see README.md
+public/audio/*
